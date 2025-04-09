@@ -1,6 +1,30 @@
 # Anybank
 
+[PT-BR]
+
+Projeto de estudos Angular 19, com foco em interação entre componentes com inputs e outputs (signal).
+
+Pontos de aprendizado:
+- Formatação de dados com os Pipes do Angular, como DatePipe e CurrencyPipe;
+- Criação de formulários com vínculo bidirecional (two-way binding) na abordagem de formulários orientados a template;
+- Implemente a comunicação entre componentes com inputs e outputs (signal);
+- Aplicação de dinamismo e reatividade com signals e computed.
+
+Este projeto foi gerado usando [Angular CLI](https://github.com/angular/angular-cli) versão 19.1.8.
+
+[EN]
+
+Angular 19 study project, focusing on component interaction with inputs and outputs (signal).
+
+Learning points:
+- Data formatting using Angular Pipes, such as DatePipe and CurrencyPipe;
+- Creating forms with two-way binding using the template-driven forms approach;
+- Implement component communication with inputs and outputs (signal);
+- Applying dynamism and reactivity with signals and computed.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
+
+---
 
 ## Development server
 
